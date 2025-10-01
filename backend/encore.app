@@ -1,0 +1,1 @@
+{"id": "powerful-inventory-pos-system-9cf2", "lang": "typescript"}
